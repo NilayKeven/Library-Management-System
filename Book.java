@@ -1,5 +1,5 @@
 /** 
- * Class that represents a book in the library. Data field contains five informations
+ * Class that represents a     book in the library. Data field contains five informations
  * about the book. The class include methods that related to data field.
  *
  * @author Nilay Keven
